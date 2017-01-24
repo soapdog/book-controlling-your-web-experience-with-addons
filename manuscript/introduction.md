@@ -6,12 +6,23 @@ The Web is as mainstream as possible these days yet, most of its users have a ve
 
 And since most people spend more time browsing other peoples site then they do creating their own, the overall experience of web users is a quite uninvolved one much like cable TV or video games. By uninvolved I don't mean that it is not interactive, I mean that you don't have a say or a way to influence the interactivity of that experience at first glance. If people restrict themselves to whatever experience they are given by the content producer, they will never become content producers themselves.
 
-The last decade of the Web has been marked by one upward trend in siloed experiences. Our online experience becomes more centralized and controlled each day and [many people actually believe that facebook is all there is on the web](http://qz.com/333313/milliions-of-facebook-users-have-no-idea-theyre-using-the-internet/).
+The last decade of the Web has been marked by one upward trend in siloed experiences. Our online experience becomes more centralized and controlled each day. [Many people actually believe that facebook is all there is on the web](http://qz.com/333313/milliions-of-facebook-users-have-no-idea-theyre-using-the-internet/).
 
-> A small-scale survey in five countries showed that many Facebook users either don’t know the app is on the Internet, or have no idea there is an Internet beyond Facebook. Without Web literacy, we cannot expect people to understand what the Internet can do for them, or why they should care. &mdash; from [Mozilla Internet Health Report v0.1 - Web Literacy](https://internethealthreport.org/v01/web-literacy/)
+> A small-scale survey in five countries showed that many Facebook users either don’t know the app is on the Internet, or have no idea there is an Internet beyond Facebook. Without Web literacy, we cannot expect people to understand what the Internet can do for them, or why they should care. &mdash; from [Mozilla Internet Health Report v0.1 - Web Literacy](https://internethealthreport.org/v01/web-literacy/).
+
+Not long ago, the Web was thriving on a decentralized blogosphere where each author was in control of their own content. Portals such as [Geocities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) made having a Web Page and experimenting with HTML/CSS very easy. Today, online citizens live inside social networks that promote siloed experiences and are hostile to the concept of a [decentralized Web](https://internethealthreport.org/v01/decentralization/).
+
+In summary, we lost control of our online experiences to entities that potentially do not share the same vision and values [we want for the Web](https://webwewant.mozilla.org/). I believe it is time for a change.  
 
 [^1]: Not really, I just made this up to suit the text, it is called storytelling and ad companies and newspapers are doing it too. Felt cheated? I do too, every time I watch the news...  
 
-# Look at me! I am the captain now!
 
 # Rebellion and Agency
+There is a third possible Web action besides browsing and creating Web sites, one that is much less explored but is immensely powerful: **Interfering with other peoples site**. Lets be pragmatic for a second, unless you are a very influential person, there is almost zero chance that a large company such as Facebook or Twitter will actually change their products because *you'd like it to work a bit different*.
+
+A simple example is that most web apps are developed from the point of view of right handed people, if you're left handed such as I am then lots of buttons are suddenly out of reach. Asking for a *Left Handed* mode might be a sound suggestion but it is also be completely ignored because it is not seen as a priority. What can you do when you'd like to take back the control of your Web experience but whoever developed the Web site you're using is not prone to listening to you? **You write an Addon to change that site only for you!**
+
+ 
+
+
+# Look at me! I am the captain now!

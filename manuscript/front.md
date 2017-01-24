@@ -32,7 +32,7 @@ If you'd like to see how this book is made, point your browser to [the book repo
 
 ## Donations
 
-Writing a book requires a lot of work and I would like to dedicate more time in my life for this type of activity after the 2013 Google Summer of Code is done. Those that think that this book is useful (or cool) may move the price slider on Leanpub download page from zero to any desired amount and give me some bucks.
+Writing a book requires a lot of work and I would like to dedicate more time in my life for this type of activity. Those that think that this book is useful (or cool) may move the price slider on Leanpub download page from zero to any desired amount and give me some bucks.
 
 Those that would rather donate using PayPal, I can receive donations under the *andre@andregarzia.com* account.
 

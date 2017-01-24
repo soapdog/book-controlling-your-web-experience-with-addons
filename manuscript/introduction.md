@@ -10,7 +10,7 @@ And since most people spend more time browsing other peoples site then they do c
 
 The last decade of the Web has been marked by one upward trend in siloed experiences. Our online experience becomes more centralized and controlled each day. [Many people actually believe that facebook is all there is on the web](http://qz.com/333313/milliions-of-facebook-users-have-no-idea-theyre-using-the-internet/).
 
-> A small-scale survey in five countries showed that many Facebook users either don’t know the app is on the Internet, or have no idea there is an Internet beyond Facebook. Without Web literacy, we cannot expect people to understand what the Internet can do for them, or why they should care. &mdash; from [Mozilla Internet Health Report v0.1 - Web Literacy](https://internethealthreport.org/v01/web-literacy/).
+> A small-scale survey in five countries showed that many Facebook users either don't know the app is on the Internet, or have no idea there is an Internet beyond Facebook. Without Web literacy, we cannot expect people to understand what the Internet can do for them, or why they should care. &mdash; from [Mozilla Internet Health Report v0.1 - Web Literacy](https://internethealthreport.org/v01/web-literacy/).
 
 Not long ago, the Web was thriving on a decentralized blogosphere where each author was in control of their own content. Portals such as [Geocities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) made having a Web Page and experimenting with HTML/CSS very easy. Today, online citizens live inside social networks that promote siloed experiences and are hostile to the concept of a [decentralized Web](https://internethealthreport.org/v01/decentralization/).
 
@@ -30,7 +30,14 @@ Even though most Web Developers use a bunch of Addons in their daily lives, very
 
 > **AGENCY:** the capacity, condition, or state of acting or of exerting power. &mdash; [from Merriam Webster dictionary](https://www.merriam-webster.com/dictionary/agency).
 
-
-
+The browser is called a *user agent*, we're going to put it to work on behalf of us eschewing the passive Web experience that is forced onto us. Together we're going unlock more agency on the Web by building and sharing our own Addons. 
 
 ## Look at me! I am the captain now!
+Instead of simply exposing the [WebExtension API and workflow](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) as if this was a reference book, we're going to take a more practical approach and build four Addons to alter our online experience. These Addons will tackle common wants from users and demonstrate that we don't need to accept whatever online experience is forced onto us quietly.
+
+So this book is a case study of the development of four tiny Addons and how they improve my personal experience. I hope they also inspire you to develop your own.
+
+* **9wantz:** This Addons alters a popular meme sharing site to change the layout by removing some clickbait links while also changing the sharing features to be something I think is better.
+* **NoBullshit:** This one removes feed items from Facebook based on terms you define. Sometimes, you just want to hide all that hate speech.
+
+**TODO: Define the next two WebExtensions**

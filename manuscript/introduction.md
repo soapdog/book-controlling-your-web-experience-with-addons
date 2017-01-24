@@ -1,4 +1,6 @@
-# Loosing control
+# Introduction
+
+## Loosing control
 The Web is as mainstream as possible these days yet, most of its users have a very passive approach to their online experience as they approach web technology as if it was a black box best not tampered with. The average web user believes that there are only two possible actions on the Web[^1]:
 
 * To browse someones site.
@@ -17,12 +19,18 @@ In summary, we lost control of our online experiences to entities that potential
 [^1]: Not really, I just made this up to suit the text, it is called storytelling and ad companies and newspapers are doing it too. Felt cheated? I do too, every time I watch the news...  
 
 
-# Rebellion and Agency
+## Rebellion and Agency
 There is a third possible Web action besides browsing and creating Web sites, one that is much less explored but is immensely powerful: **Interfering with other peoples site**. Lets be pragmatic for a second, unless you are a very influential person, there is almost zero chance that a large company such as Facebook or Twitter will actually change their products because *you'd like it to work a bit different*.
 
 A simple example is that most web apps are developed from the point of view of right handed people, if you're left handed such as I am then lots of buttons are suddenly out of reach. Asking for a *Left Handed* mode might be a sound suggestion but it is also be completely ignored because it is not seen as a priority. What can you do when you'd like to take back the control of your Web experience but whoever developed the Web site you're using is not prone to listening to you? **You write an Addon to change that site only for you!**
 
- 
+Addons are small, self-contained packages, that alter your browser experience. They can add functionality to your favorite browser and even change how a given site works for you. They are very popular with Firefox and Chrome and now with the new WebExtension API, both browsers can use the same Addons with minimal tweaking. Some popular examples are: ad blockers, download accelerators and password managers.
+
+Even though most Web Developers use a bunch of Addons in their daily lives, very few actually wrote their own. It is as if we're all behaving like chefs that cook in other restaurants but never at home. Throughout this book we are going to put those web development skills to a rebellious use. We're going to write Addons to change the browser and some popular sites, we're going to take back control over our personal online experience.
+
+> **AGENCY:** the capacity, condition, or state of acting or of exerting power. &mdash; [from Merriam Webster dictionary](https://www.merriam-webster.com/dictionary/agency).
 
 
-# Look at me! I am the captain now!
+
+
+## Look at me! I am the captain now!
